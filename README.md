@@ -1,4 +1,4 @@
-# AI Music Curator - Emotional Journey Mapping
+# Prompt AI Music Curator - Emotional Journey Mapping
 
 ## 🛠️ Resumen Técnico
 
